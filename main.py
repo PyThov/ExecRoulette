@@ -1,7 +1,7 @@
 import os
 from random import randint
 
-steamPath = "C:/Users/zanni/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Steam"
+steamPath = "<Insert path here>"
 
 def getListOfGames(path):
     print(f"Getting games from {path}...")
